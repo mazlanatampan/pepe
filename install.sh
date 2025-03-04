@@ -4,4 +4,4 @@ mkdir xmrig/build && cd xmrig/build
 cmake ..
 make
 
-bash start.sh
+bash run.sh
